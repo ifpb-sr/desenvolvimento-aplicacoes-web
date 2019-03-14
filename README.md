@@ -10,6 +10,8 @@ Neste projeto os seguintes comandos foram utilizados:
         $ which python3
         /usr/bin/python3
         $ virtualenv --python=`which python3` myenv
+        $ pip install flask
+        
 
 Ativando o ambiente:
 
