@@ -23,7 +23,7 @@ Vamos realizar uma **Configuração expressa para o AWS Cloud9**.
 
 # 3 Preencendo dados
 
-- Preencha o **Name** do ambiente com `Python para Web`. E na descrição coloque: `Primeiro ambiente`.
+- Preencha o **Name** do ambiente com `Python-para-Web`. E na descrição coloque: `Primeiro ambiente`.
 
 
 ![python-para-web](https://user-images.githubusercontent.com/3603111/54687531-9561ba00-4afa-11e9-9222-d5cfb111cc00.png)
@@ -63,10 +63,39 @@ Entre no modo Tele cheia.
 
 **OBS**: Eu precirei ir para outra aba, pressionar F11 e depois voltei para a aba anterior. Use `CTRL+Page Up` para trocar de abas.
 
-# 8 Acesse a documentação
+# 8 Aprendendo a acessar a documentação
 
 - Clique em `Support` e depois em `Read documentation`.
 - Baixe a documentação em português em PDF:
 
 ![baixe-pdf](https://user-images.githubusercontent.com/3603111/54689086-9cd69280-4afd-11e9-9f25-1d65270a435f.png)
+
+# 9 Vamos realizar as três operações de Get stated
+
+![get-stated](https://user-images.githubusercontent.com/3603111/54689617-ac0a1000-4afe-11e9-9677-282b3c30d05e.png)
+
+- Criar arquivo
+- Enviar arquivo
+- Clonar repositório
+
+## Crie um arquivo diario.md
+
+Crie e salve um arquivo diario.md com o seguinte conteúdo:
+
+```markdown
+# Diário
+
+Contém minhas anotações sobre as atividades de desenvolvimento.
+
+## 21/03/2019
+
+Como eu me senti ao criar um arquivo: 
+
+Como eu me senti ao enviar um arquivo: 
+
+Como eu me senti ao clonar repositório: 
+
+```
+
+
 
