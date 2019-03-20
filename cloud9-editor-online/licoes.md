@@ -6,7 +6,7 @@ Este documento descreve passos para utilização de ambiente virtual de desenvol
 
 # 1. Acessando awseducate
 
-- Acessem a [awseducate](https://www.awseducate.com/educator/s/awssite).
+- Acessem a [awseducate](https://www.awseducate.com/educator/s/awssite). (Abram numa nova aba)
 - Cliquem em **Go to your AWS Educate Starter Account** (pode está em **My Classes**).
 
 Para acessar o console clique em "Console AWS":
