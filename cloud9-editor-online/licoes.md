@@ -1,5 +1,9 @@
 # Primeira utilização
 
+Este documento descreve passos para utilização de ambiente virtual de desenvolvimento cloud9.
+
+# 1. Acessando awseducate
+
 - Acessem a [awseducate](https://www.awseducate.com/educator/s/awssite).
 - Cliquem em **Go to your AWS Educate Starter Account**.
 
@@ -11,13 +15,13 @@ No **Console de gerenciamento da AWS** localize o serviço `cloud9`.
 
 Vamos realizar uma **Configuração expressa para o AWS Cloud9**.
 
-<hr>
+# 2 Solicitar criação do ambiente
 
 - Clicar em create enviroment:
 
 ![create-enviroment](https://user-images.githubusercontent.com/3603111/54687384-356b1380-4afa-11e9-8644-1ef6952dbd6f.png)
 
-<hr>
+# 3 Preencendo dados
 
 - Preencha o **Name** do ambiente com `Python para Web`. E na descrição coloque: `Primeiro ambiente`.
 
@@ -25,21 +29,19 @@ Vamos realizar uma **Configuração expressa para o AWS Cloud9**.
 ![python-para-web](https://user-images.githubusercontent.com/3603111/54687531-9561ba00-4afa-11e9-9222-d5cfb111cc00.png)
 
 
-<hr>
-
-## Entendendo as configurações
+# 4 Entendendo as configurações
 
 ![configuracoes](https://user-images.githubusercontent.com/3603111/54687847-5718ca80-4afb-11e9-82db-e488b1eaa076.png)
 
 **NOTE**: Nós temos $ 100,00 dólares de créditos para executar as aplicações na núvem.
 
-### Configuração pardão
+## Configuração pardão
 
 Nós vamos iniciar uma IDE num computador remoto **micro**, com configuração de 1 GB de RAM e *single core*. A cada minuto de uso os nossos créditos serão debitados. A cada 30min de inatividade o servidor é hibernado para não gastar nossos créditos indefinidamente.
 
 Clique em **Next step**.
 
-<hr>
+# 5 Leias configurações do ambiente solicitado
 
 Leia as recomendações:
 
@@ -50,20 +52,18 @@ Leia as recomendações:
 
 Clique em **Create environment**.
 
-<hr>
-
-## Aguarde a criação
+# 6 Aguarde a criação
 
 ![criando](https://user-images.githubusercontent.com/3603111/54688449-5f253a00-4afc-11e9-99d5-305aac259c7e.png)
 
 
-## Entre em tela cheia
+# 7 Entre em tela cheia
 
 Entre no modo Tele cheia.
 
 **OBS**: Eu precirei ir para outra aba, pressionar F11 e depois voltei para a aba anterior. Use `CTRL+Page Up` para trocar de abas.
 
-## Acesse a documentação
+# 8 Acesse a documentação
 
 - Clique em `Support` e depois em `Read documentation`.
 - Baixe a documentação em português em PDF:
