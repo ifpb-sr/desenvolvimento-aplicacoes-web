@@ -4,6 +4,34 @@ Este documento descreve passos para utilização de ambiente virtual de desenvol
 
 **NOTE**: Cuidado para não ficar muito tempo inativo senão a sessão é encerrada e precisará fazer login novamente.
 
+# 0 Aceitando convite e criando senha
+
+[Acesse esta planilha](https://docs.google.com/spreadsheets/d/1vMEN4TDSmUPKY7SMlYHfnbOjTlYStS8l8Ws64xhIUxo/edit#gid=0) e veja qual e-mail seu foi cadastrado.
+
+Localize o e-mail com o título "Your AWS Educate Application" e abra-o. Depois clique em "Click here" para finalizar o cadastro.
+
+Altere o idioma em *Prefere language* para portuguese. Preencham os dados do formulário.
+
+O primeiro ano é quando vocês irão concluir o segundo a data de nascimento.
+
+Clique numa "Clique aqui para seleciona uma conta aws educatate starter"
+
+Abra o e-mail e clique no link na nova mensagem.
+
+Leiam o termo e condições e aceitem ou não. Brincaderinha, clique em Eu aceito. (Requer descer a tela inteira). Depois clica em **Enviar**.
+
+Depois um novo e-mail com aprovação será recebido. Nele haverá um vídeo explicando a AWS Education e um link para criar um login e password. Clique para criar o login e password. `Click here to set you password and login`. 
+
+Antes de criar a senha, leia as instruções abaixo sobre como a senha deve ser.
+
+Agora, ANOTE no celular a senha que irão colocar, depois tatuem ela. Ou apenas não esqueçam.
+
+Clique em *Classroms* depois em no botão **Go to classroom** e **Continue**. 
+
+Leiam os termos de condições novamente e aceitem. 
+
+Agora cliquem em **AWS Console**. Quando não aparecer nada é pq o navegador está bloqueando popups. Permite a abertura da popups no navegador. Isso é feito no ícone ao lado do de traduzir a página. Clique nele e marque sempre permitir abrir pop-ups nesse site. em seguida, clique em **AWS Console** novamente.
+
 # 1. Acessando awseducate
 
 - Acessem a [awseducate](https://www.awseducate.com/educator/s/awssite). (Abram numa nova aba)
