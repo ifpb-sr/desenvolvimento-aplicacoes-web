@@ -166,7 +166,7 @@ Depois ir em [Add the SSH key to your GitHub account](https://help.github.com/en
 
 Depois que as chaves foram configuradas, podemos clonar com sucesso:
 
-NOTE: Você deve clonar um repostório seu, a sua escolha.
+NOTE: Você deve clonar um repostório *forkado*.
 
 ```
 vocstartsoft:~/environment $ git clone git@github.com:ifpb-sr/desenvolvimento-aplicacoes-web.git
@@ -179,3 +179,11 @@ Receiving objects: 100% (71/71), 13.58 KiB | 463.00 KiB/s, done.
 Resolving deltas: 100% (27/27), done.
 vocstartsoft:~/environment $ 
 ```
+
+# 10 Executando a aplicação em Vamos executar 
+
+Vamos entrar em `environment/desenvolvimento-aplicacoes-web/verbos-http` e executar a aplicação `aprendendo_metodos.py`. Leia os READMEs para lembrar como instalar as dependencias e executar a aplicação.
+
+Boa sorte!
+
+![](http://img.glimboo.com/recado/boa_sorte/boa_sorte_406865.png)
