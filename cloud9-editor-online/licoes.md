@@ -89,11 +89,11 @@ Contém minhas anotações sobre as atividades de desenvolvimento.
 
 ## 21/03/2019
 
-Como eu me senti ao criar um arquivo: 
+Como eu me senti ao *criar um arquivo*: 
 
-Como eu me senti ao enviar um arquivo: 
+Como eu me senti ao *enviar um arquivo*: 
 
-Como eu me senti ao clonar repositório: 
+Como eu me senti ao *clonar repositório*: 
 
 ```
 
