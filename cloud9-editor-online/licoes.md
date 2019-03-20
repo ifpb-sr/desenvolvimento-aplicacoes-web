@@ -1,11 +1,13 @@
 # Primeira utilização
 
-Este documento descreve passos para utilização de ambiente virtual de desenvolvimento cloud9.
+Este documento descreve passos para utilização de ambiente virtual de desenvolvimento cloud9 (IDE online).
+
+**NOTE**: Cuidado para não ficar muito tempo inativo senão a sessão é encerrada e precisará fazer login novamente.
 
 # 1. Acessando awseducate
 
 - Acessem a [awseducate](https://www.awseducate.com/educator/s/awssite).
-- Cliquem em **Go to your AWS Educate Starter Account**.
+- Cliquem em **Go to your AWS Educate Starter Account** (pode está em **My Classes**).
 
 Para acessar o console clique em "Console AWS":
 
@@ -97,5 +99,65 @@ Como eu me senti ao *clonar repositório*:
 
 ```
 
+Salve o arquivo!
+
+![meu-diario](https://user-images.githubusercontent.com/3603111/54691401-f3de6680-4b01-11e9-8b55-efe3520d45df.png)
 
 
+## Enviando um arquivo
+
+Tire um printscreen e envie o arquivo para lá.
+
+
+![arquivo-enviado](https://user-images.githubusercontent.com/3603111/54691435-fe98fb80-4b01-11e9-9db9-1feb71f0415d.png)
+
+NOTE: Perceba que a imagem foi enviada.
+
+## Clonando repositório
+
+Tente clonar o repositório e verifique que deu erro:
+
+![clone-erro](https://user-images.githubusercontent.com/3603111/54691487-16707f80-4b02-11e9-956f-9a189ef28181.png)
+
+### Configurando chaves de criptografia SSH
+
+Precisamos configurar [as chaves de acesso SSH antes](https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent). Faça isso agora.
+
+Estou fazendo para o meu e-mail (eduardo.ufpb@gmail.com), faça para o seu. Deixe a passphrase vazia, basta dar ENTER.
+
+```
+vocstartsoft:~/environment $ ssh-keygen -t rsa -b 4096 -C eduardo.ufpb@gmail.com
+Generating public/private rsa key pair.
+Enter file in which to save the key (/home/ec2-user/.ssh/id_rsa): yes
+Enter passphrase (empty for no passphrase): 
+Enter same passphrase again: 
+Your identification has been saved in yes.
+Your public key has been saved in yes.pub.
+The key fingerprint is:
+SHA256:I+UjUjyP51G1hoDuZ4ZRuYBuOPwQRhS/foRA2d3+d4g eduardo.ufpb@gmail.com
+The key's randomart image is:
++---[RSA 4096]----+
+| o=+ o o..  .    |
+| .+.o.+ +. o .   |
+| o.+..++..o o    |
+|  =.o+o*o. .     |
+|   =+.=oS. . .   |
+|   ..oo=++E o .  |
+|    . .+.  . .   |
+|     .           |
+|                 |
++----[SHA256]-----+
+
+vocstartsoft:~/environment $ eval "$(ssh-agent -s)"
+Agent pid 6597
+
+vocstartsoft:~/environment $ ssh-add yes
+Identity added: yes (yes)
+```
+
+Depois ir em [Add the SSH key to your GitHub account](https://help.github.com/en/articles/adding-a-new-ssh-key-to-your-github-account).
+
+
+![cat yes pub](https://user-images.githubusercontent.com/3603111/54692449-d1e5e380-4b03-11e9-991c-e279ae4e7a59.png)
+
+![add-key-github](https://user-images.githubusercontent.com/3603111/54692470-d90cf180-4b03-11e9-81ab-0698a856277e.png)
