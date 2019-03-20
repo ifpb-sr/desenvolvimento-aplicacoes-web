@@ -26,3 +26,28 @@ Vamos realizar uma **Configuração expressa para o AWS Cloud9**.
 
 
 <hr>
+
+## Entendendo as configurações
+
+![configuracoes](https://user-images.githubusercontent.com/3603111/54687847-5718ca80-4afb-11e9-82db-e488b1eaa076.png)
+
+**NOTE**: Nós temos $ 100,00 dólares de créditos para executar as aplicações na núvem.
+
+### Configuração pardão
+
+Nós vamos iniciar uma IDE num computador remoto **micro**, com configuração de 1 GB de RAM e *single core*. A cada minuto de uso os nossos créditos serão debitados. A cada 30min de inatividade o servidor é hibernado para não gastar nossos créditos indefinidamente.
+
+Clique em **Next step**.
+
+<hr>
+
+Leia as recomendações:
+
+- Use source control and backup your environment frequently. AWS Cloud9 does not perform automatic backups.
+- Perform regular updates of software on your environment. AWS Cloud9 does not perform automatic updates on your behalf.
+- Turn on AWS CloudTrail in your AWS account to track activity in your environment. Learn more
+- Only share your environment with trusted users. Sharing your environment may put your AWS access credentials at risk. Learn more
+
+Clique em **Create environment**.
+
+<hr>
