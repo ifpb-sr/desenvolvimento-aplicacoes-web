@@ -57,3 +57,16 @@ Clique em **Create environment**.
 ![criando](https://user-images.githubusercontent.com/3603111/54688449-5f253a00-4afc-11e9-99d5-305aac259c7e.png)
 
 
+## Entre em tela cheia
+
+Entre no modo Tele cheia.
+
+**OBS**: Eu precirei ir para outra aba, pressionar F11 e depois voltei para a aba anterior. Use `CTRL+Page Up` para trocar de abas.
+
+## Acesse a documentação
+
+- Clique em `Support` e depois em `Read documentation`.
+- Baixe a documentação em português em PDF:
+
+![baixe-pdf](https://user-images.githubusercontent.com/3603111/54689086-9cd69280-4afd-11e9-9f25-1d65270a435f.png)
+
