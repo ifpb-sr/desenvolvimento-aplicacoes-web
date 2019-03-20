@@ -161,3 +161,21 @@ Depois ir em [Add the SSH key to your GitHub account](https://help.github.com/en
 ![cat yes pub](https://user-images.githubusercontent.com/3603111/54692449-d1e5e380-4b03-11e9-991c-e279ae4e7a59.png)
 
 ![add-key-github](https://user-images.githubusercontent.com/3603111/54692470-d90cf180-4b03-11e9-81ab-0698a856277e.png)
+
+## Clonando novamente
+
+Depois que as chaves foram configuradas, podemos clonar com sucesso:
+
+NOTE: Você deve clonar um repostório seu, a sua escolha.
+
+```
+vocstartsoft:~/environment $ git clone git@github.com:ifpb-sr/desenvolvimento-aplicacoes-web.git
+Cloning into 'desenvolvimento-aplicacoes-web'...
+remote: Enumerating objects: 71, done.
+remote: Counting objects: 100% (71/71), done.
+remote: Compressing objects: 100% (51/51), done.
+remote: Total 71 (delta 27), reused 19 (delta 5), pack-reused 0
+Receiving objects: 100% (71/71), 13.58 KiB | 463.00 KiB/s, done.
+Resolving deltas: 100% (27/27), done.
+vocstartsoft:~/environment $ 
+```
