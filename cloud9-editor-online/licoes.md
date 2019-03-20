@@ -51,3 +51,9 @@ Leia as recomendações:
 Clique em **Create environment**.
 
 <hr>
+
+## Aguarde a criação
+
+![criando](https://user-images.githubusercontent.com/3603111/54688449-5f253a00-4afc-11e9-99d5-305aac259c7e.png)
+
+
