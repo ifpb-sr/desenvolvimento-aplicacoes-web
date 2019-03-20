@@ -18,6 +18,7 @@ Vamos realizar uma **Configuração expressa para o AWS Cloud9**.
 ![create-enviroment](https://user-images.githubusercontent.com/3603111/54687384-356b1380-4afa-11e9-8644-1ef6952dbd6f.png)
 
 <hr>
+
 - Preencha o **Name** do ambiente com `Python para Web`. E na descrição coloque: `Primeiro ambiente`.
 
 
