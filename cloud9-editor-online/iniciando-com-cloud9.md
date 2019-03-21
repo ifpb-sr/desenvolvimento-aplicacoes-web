@@ -148,6 +148,16 @@ Tire um printscreen e envie o arquivo para lá.
 
 NOTE: Perceba que a imagem foi enviada.
 
+## Fazendo um fork do repositório no github
+
+Abra o repositório [https://github.com/ifpb-sr/desenvolvimento-aplicacoes-web](https://github.com/ifpb-sr/desenvolvimento-aplicacoes-web) e clique em **Fork**.
+
+![fork](https://user-images.githubusercontent.com/3603111/54746130-280d6200-4baa-11e9-9976-cc4808dcbdc8.png)
+
+Perceba que um novo repositório foi criado com o SEU login do github.
+
+**NOTE**: Na seço abaixo utilize o link do repositório contendo o seu login.
+
 ## Clonando repositório
 
 Tente clonar o repositório e verifique que deu erro:
