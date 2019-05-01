@@ -207,6 +207,15 @@ Depois ir em [Add the SSH key to your GitHub account](https://help.github.com/en
 
 ![add-key-github](https://user-images.githubusercontent.com/3603111/54692470-d90cf180-4b03-11e9-81ab-0698a856277e.png)
 
+Meu history:
+
+```
+ssh-keygen -t rsa -b 4096 -C "eduardo.ufpb@gmail.com"
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_rsa
+cat ~/.ssh/id_rsa.pub
+```
+
 ## Clonando novamente
 
 Depois que as chaves foram configuradas, podemos clonar com sucesso:
